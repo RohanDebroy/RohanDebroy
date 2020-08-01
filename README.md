@@ -8,7 +8,7 @@ Noob 'Pro'grammer. Learning on the go.
 - 💬 Ask me about backend development
 - 🙄 I’m looking for nirvana
 
-[![LinkedIn](https://img.shields.io/static/v1.svg?label=Connect&message=@Rohan&color=grey&logo=linkedin&labelColor=0088ff&style=social)](https://www.linkedin.com/in/rohan-debroy)
-[![Github Gists](https://img.shields.io/github/followers/rohandebroy?color=0088ff&label=Gists&logoColor=blue&style=social)](https://gist.github.com/RohanDebroy)
+### Connect with me!
+[<img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/rohan-debroy/) [<img src = "https://img.shields.io/badge/instagram-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white">](https://www.instagram.com/rohan_debroy/)
 
 ![Rohan's github stats](https://github-readme-stats.vercel.app/api?username=RohanDebroy&show_icons=true&&hide_border=true)
