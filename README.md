@@ -2,10 +2,11 @@
 
 **Namaste**
 
-- I’m currently learning data structures.
-- I’m looking for help with React Material UI.
-- Ask me about backend development, tech and photography.
+- I’m a work in progress Software Engineer
+- Learning all about open source.
+- Ask me about backend development and tech.
 - Pronouns - He/Him.
+- Fun Fact - HTML is not a programming language.
 
 ### Connect with me!
 [<img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/rohan-debroy/) [<img src = "https://img.shields.io/badge/instagram-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white">](https://www.instagram.com/rohan_debroy/)
