@@ -2,7 +2,7 @@
 
 **Namaste**
 
-- I’m a work in progress Software Engineer
+- Building random things.
 - Learning all about open source.
 - Ask me about backend development and tech.
 
