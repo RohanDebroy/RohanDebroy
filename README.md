@@ -1,12 +1,7 @@
 ### Hi there 👋
+I'm Rohan - I'm a frontend developer. I work on a ton of random projects in my free time.
 
-**Namaste**
-
-- Building random stuff.
-- Learning all about open source.
-- Ask me about Fullstack development.
-
-### Connect with me!
-[<img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/rohan-debroy/) [<img src = "https://img.shields.io/badge/instagram-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white">](https://www.instagram.com/rohan_debroy/)
-
-![Rohan's github stats](https://github-readme-stats.vercel.app/api?username=RohanDebroy&show_icons=true&&hide_border=true)
+## 🌱My skills & Activities
+[![My Skills](https://skillicons.dev/icons?i=js,ts,html,css,nodejs,tailwind,react,nextjs,prisma,docker,figma,supabase)](https://skillicons.dev)<br/>
+<a href="#">![Github stats](https://github-readme-stats.vercel.app/api?username=rohandebroy&theme=blueberry&count_private=true&hide_border=true&line_height=20)</a>
+<a href="#">![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rohandebroy&layout=compact&theme=blueberry&count_private=true&hide_border=true)</a>
